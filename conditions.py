@@ -1,3 +1,4 @@
+# elif abbreviazzione di else if
 n = int(input("n: "))
 if n > 0:
     print("n is positive")
